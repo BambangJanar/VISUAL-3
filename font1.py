@@ -1,0 +1,1 @@
+print('Ripki main odet bebau')
